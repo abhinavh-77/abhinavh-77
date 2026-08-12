@@ -77,7 +77,7 @@
 <div align="center">
 
 <!-- Replace ABHINAVH-77 workflow output path once the GitHub Action is set up -->
-<img src="https://github.com/abhinavh-77/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
+<img src="https://raw.githubusercontent.com/abhinavh-77/abhinavh-77/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
 
 <sub>⚙️ Powered by <a href="https://github.com/Platane/snk">Platane/snk</a> — set up the GitHub Action to activate this graph</sub>
 
