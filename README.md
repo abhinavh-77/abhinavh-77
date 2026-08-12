@@ -66,7 +66,7 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavh-77&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=c9d1d9" />
+<img src="https://streak-stats.demolab.com/?user=abhinavh-77&theme=tokyonight&hide_border=true&background=0D1117&ring=6366f1&fire=818CF8&currStreakLabel=6366f1" />
 
 </div>
 
