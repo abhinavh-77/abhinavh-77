@@ -165,7 +165,7 @@ New projects are always in progress — check my GitHub for the latest work and 
 
 <div align="center">
 
-<img src="https://abhinav-s-portfolio-three.vercel.app/" />
+<img src="https://abhinav-s-portfolio-three.vercel.app/certifications/cert2.pdf" />
 
 </div>
 
