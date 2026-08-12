@@ -163,13 +163,9 @@ New projects are always in progress — check my GitHub for the latest work and 
 
 ## 🏆 Achievement Badges
 
-<div align="center">
-
-<img src="https://abhinav-s-portfolio-three.vercel.app/certifications/cert2.pdf" />
-
-</div>
-
-<br/>
+<a href="https://abhinav-s-portfolio-three.vercel.app/certifications/cert2.pdf">
+     <img src="path-to-cert2-thumbnail.png" width="300" />
+   </a>
 
 ## 📬 Let's Connect
 
