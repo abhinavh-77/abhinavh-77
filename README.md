@@ -59,19 +59,18 @@
 
 ## 📊 GitHub Stats & Analytics
 
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abhinavh-77&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=818CF8&text_color=c9d1d9" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=abhinavh-77&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=818CF8&text_color=c9d1d9" />
 
-<img height="165" src="https://streak-stats.demolab.com/?user=abhinavh-77&theme=tokyonight&hide_border=true&background=0D1117&ring=6366f1&fire=818CF8&currStreakLabel=6366f1" />
+<img height="180" src="https://streak-stats.demolab.com/?user=abhinavh-77&theme=tokyonight&hide_border=true&background=0D1117&ring=6366f1&fire=818CF8&currStreakLabel=6366f1" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavh-77&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=c9d1d9" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavh-77&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=c9d1d9" />
 
 </div>
-
-<br/>
 
 ## 📈 Contribution Graph
 
