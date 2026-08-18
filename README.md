@@ -51,7 +51,7 @@
 
 | Frontend | Backend | Database | Tools |
 |:---:|:---:|:---:|:---:|
-| HTML5 · CSS3 · JavaScript · Bootstrap · React | Node.js · Express.js | MongoDB · MySQL | Git · GitHub · VS Code |
+| HTML5 · CSS3 · JavaScript · React  | MongoDB · MySQL | Git · GitHub · VS Code |
 
 </div>
 
