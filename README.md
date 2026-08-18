@@ -26,7 +26,7 @@
 
 <img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 
-- 🎓 Aspiring **FrontEnd Developer** with a strong foundation in the ** Web Developer**
+- 🎓 Aspiring **FrontEnd Developer** with a strong foundation in the Web Development
 - 💡 Passionate about crafting responsive, user-focused web applications
 - 🚀 Currently sharpening my skills in **React.js, Node.js & MongoDB**
 - 🌱 Fresher — hungry to learn, ship real projects, and grow with a great team
@@ -41,7 +41,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,mongodb,mysql,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,mysql,git,github,vscode&theme=dark" />
 
 </div>
 
@@ -51,7 +51,7 @@
 
 | Frontend | Backend | Database | Tools |
 |:---:|:---:|:---:|:---:|
-| HTML5 · CSS3 · JavaScript · React  | MongoDB · MySQL | Git · GitHub · VS Code |
+| HTML5 · CSS3 · JavaScript  | MySQL | Git · GitHub · VS Code |
 
 </div>
 
@@ -62,11 +62,12 @@
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=abhinavh-77&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=818CF8&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavh-77&theme=tokyonight&hide_border=true&background=0D1117&ring=6366f1&fire=818CF8&currStreakLabel=6366f1" />
 
-<br/>
+<img height="165" src="https://streak-stats.demolab.com/?user=abhinavh-77&theme=tokyonight&hide_border=true&background=0D1117&ring=6366f1&fire=818CF8&currStreakLabel=6366f1" />
 
-<img src="https://streak-stats.demolab.com/?user=abhinavh-77&theme=tokyonight&hide_border=true&background=0D1117&ring=6366f1&fire=818CF8&currStreakLabel=6366f1" />
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavh-77&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=c9d1d9" />
 
 </div>
 
