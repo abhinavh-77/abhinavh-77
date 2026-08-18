@@ -41,7 +41,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,mysql,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,git,github,vscode&theme=dark" />
 
 </div>
 
@@ -51,7 +51,7 @@
 
 | Frontend | Backend | Database | Tools |
 |:---:|:---:|:---:|:---:|
-| HTML5 · CSS3 · JavaScript  | MySQL | Git · GitHub · VS Code |
+| HTML5 · CSS3 · JavaScript | Python  | MySQL | Git · GitHub · VS Code |
 
 </div>
 
